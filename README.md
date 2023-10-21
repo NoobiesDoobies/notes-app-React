@@ -1,5 +1,5 @@
 # notes-app-React
- My first project using React library
+ My first project using React library and bootstrap
 
 1. You are able to add your own notes
 ![image](https://github.com/NoobiesDoobies/notes-app-React/assets/94593468/ecda367d-a00d-450f-86f6-039c64c509b5)
